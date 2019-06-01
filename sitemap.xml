@@ -21,4 +21,8 @@
     <priority>0</priority>
   </url>
   
+  <url>
+    <loc>/research/</loc>
+  </url>
+  
 </urlset>

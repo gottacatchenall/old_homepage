@@ -18,5 +18,16 @@
       <description>I&amp;rsquo;m a graduate student.</description>
     </item>
     
+    <item>
+      <title>research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Ecological Networks and Conservation To be updated soon!
+Metapopulation Fragmentation Model (mpfm) source code
+To be updated soon!</description>
+    </item>
+    
   </channel>
 </rss>
