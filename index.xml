@@ -15,7 +15,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>I&amp;rsquo;m a graduate student.</description>
+      <description>Hello!
+I&amp;rsquo;m a master&amp;rsquo;s student in the department of Ecology and Evolutionary Biology at the University of Colorado at Boulder, working with Dr. Sam Flaxman.
+I consider myself a theoretical ecologist, but my research involves topics from evolutionary genetics to stochastic processes. My undergrad background was primarily in math and computing, and as a result a major focus of my work is developing models of ecological systems guided by the principles of abstraction and generalizability.</description>
     </item>
     
     <item>
@@ -24,9 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/</guid>
-      <description>Ecological Networks and Conservation To be updated soon!
-Metapopulation Fragmentation Model (mpfm) source code
-To be updated soon!</description>
+      <description>I&amp;rsquo;m broadly interested in theoretical and computational ecology, with an emphasis on developing methods and tools to understand and predict the effects of anthropogenic change on biodiversity. In particular, I&amp;rsquo;m interested in the application of ecological network theory to questions about the dynamics and persistence of metacommunities during periods of rapid environmental and landscape change, and how to best make conservation decisions to protect biodiversity using this framework. This research spans topics in various subfields of ecology and evolution, including landscape ecology, niche theory, evolutionary ecology, and many more.</description>
     </item>
     
   </channel>
